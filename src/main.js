@@ -1,0 +1,1 @@
+alert('API URL = https://ejemplo.test/pagina?api_key=' + API_KEY);
